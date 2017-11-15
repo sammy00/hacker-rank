@@ -15,3 +15,6 @@ This is hosted in the [tutorial section](https://www.hackerrank.com/domains/tuto
 + [x] Day 3: Intro to Conditional Statements
 + [x] Day 4: Class vs. Instance   
 + [x] Day 5: Loops   
++ [x] Day 6: Let's Review  
++ [x] Day 7: Arrays  
+
