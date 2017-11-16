@@ -17,4 +17,4 @@ This is hosted in the [tutorial section](https://www.hackerrank.com/domains/tuto
 + [x] Day 5: Loops   
 + [x] Day 6: Let's Review  
 + [x] Day 7: Arrays  
-
++ [x] Day 8: Dictionaries and Maps  
