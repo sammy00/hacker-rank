@@ -12,7 +12,7 @@ int main() {
     }
 
     for (auto itr = std::crbegin(arr); itr != std::crend(arr); ++itr) {
-        cout << *itr<< " ";
+        cout << *itr << " ";
     }
     cout << endl;
 

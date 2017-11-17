@@ -18,3 +18,13 @@ This is hosted in the [tutorial section](https://www.hackerrank.com/domains/tuto
 + [x] Day 6: Let's Review  
 + [x] Day 7: Arrays  
 + [x] Day 8: Dictionaries and Maps  
++ [x] Day 9: Recursion  
+
+<a name="30-days-of-code-challenges"></a>
+## Data Structures
+This is hosted in the [data structure section](https://www.hackerrank.com/domains/data-structures/arrays)  
++ [x] Arrays - DS   
++ [x] 2D Array - DS: care the initial minimum of sentinel `sum_max`  
++ [x] Dynamic Array  
++ [x] Sparse Arrays  
++ [ ] Array Manipulation  
