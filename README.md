@@ -19,12 +19,17 @@ This is hosted in the [tutorial section](https://www.hackerrank.com/domains/tuto
 + [x] Day 7: Arrays  
 + [x] Day 8: Dictionaries and Maps  
 + [x] Day 9: Recursion  
++ [x] Day 10: Binary Numbers  
 
 <a name="30-days-of-code-challenges"></a>
 ## Data Structures
 This is hosted in the [data structure section](https://www.hackerrank.com/domains/data-structures/arrays)  
+### Arrays  
 + [x] Arrays - DS   
 + [x] 2D Array - DS: care the initial minimum of sentinel `sum_max`  
 + [x] Dynamic Array  
 + [x] Sparse Arrays  
 + [ ] Array Manipulation  
+### Linked Lists  
++ [x] Print the Elements of a Linked List  
++ [x] Insert a Node at the Tail of a Linked List   
