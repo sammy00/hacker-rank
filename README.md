@@ -21,6 +21,7 @@ This is hosted in the [tutorial section](https://www.hackerrank.com/domains/tuto
 + [x] Day 9: Recursion  
 + [x] Day 10: Binary Numbers  
 + [x] Day 11: 2D Arrays  
++ [x] Day 12: Inheritance  
 
 <a name="30-days-of-code-challenges"></a>
 ## Data Structures
