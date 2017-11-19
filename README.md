@@ -20,6 +20,7 @@ This is hosted in the [tutorial section](https://www.hackerrank.com/domains/tuto
 + [x] Day 8: Dictionaries and Maps  
 + [x] Day 9: Recursion  
 + [x] Day 10: Binary Numbers  
++ [x] Day 11: 2D Arrays  
 
 <a name="30-days-of-code-challenges"></a>
 ## Data Structures
@@ -33,3 +34,16 @@ This is hosted in the [data structure section](https://www.hackerrank.com/domain
 ### Linked Lists  
 + [x] Print the Elements of a Linked List  
 + [x] Insert a Node at the Tail of a Linked List   
++ [x] Insert a node at the head of a linked list
++ [x] Insert a node at a specific position in a linked list  
++ [x] Delete a Node  
++ [x] Print in Reverse  
++ [x] Reverse a linked list  
++ [x] Compare two linked lists  
++ [x] Merge two sorted linked lists  
++ [x] Get Node Value  
++ [x] Delete duplicate-value nodes from a sorted linked list  
++ [x] Cycle Detection  
++ [x] Find Merge Point of Two Lists  
++ [x] Inserting a Node Into a Sorted Doubly Linked List  
++ [x] Reverse a doubly linked list  
