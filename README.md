@@ -51,3 +51,8 @@ This is hosted in the [data structure section](https://www.hackerrank.com/domain
 + [x] Find Merge Point of Two Lists  
 + [x] Inserting a Node Into a Sorted Doubly Linked List  
 + [x] Reverse a doubly linked list  
+### Stacks  
++ [ ] Maximum Element  
++ [x] Balanced Brackets  
++ [x] Equal Stacks  
++ [ ] Game of Two Stacks  
