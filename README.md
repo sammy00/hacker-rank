@@ -24,6 +24,7 @@ This is hosted in the [tutorial section](https://www.hackerrank.com/domains/tuto
 + [x] Day 12: Inheritance  
 + [x] Day 13: Abstract Classes  
 + [x] Day 14: Scope  
++ [x] Day 15: Linked List  
 
 <a name="30-days-of-code-challenges"></a>
 ## Data Structures
