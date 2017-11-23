@@ -25,6 +25,7 @@ This is hosted in the [tutorial section](https://www.hackerrank.com/domains/tuto
 + [x] Day 13: Abstract Classes  
 + [x] Day 14: Scope  
 + [x] Day 15: Linked List  
++ [x] Day 16: Exceptions - String to Integer  
 
 <a name="30-days-of-code-challenges"></a>
 ## Data Structures
@@ -52,7 +53,7 @@ This is hosted in the [data structure section](https://www.hackerrank.com/domain
 + [x] Inserting a Node Into a Sorted Doubly Linked List  
 + [x] Reverse a doubly linked list  
 ### Stacks  
-+ [ ] Maximum Element  
++ [x] Maximum Element  
 + [x] Balanced Brackets  
 + [x] Equal Stacks  
 + [ ] Game of Two Stacks  
