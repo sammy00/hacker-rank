@@ -26,6 +26,7 @@ This is hosted in the [tutorial section](https://www.hackerrank.com/domains/tuto
 + [x] Day 14: Scope  
 + [x] Day 15: Linked List  
 + [x] Day 16: Exceptions - String to Integer  
++ [x] Day 17: More Exceptions  
 
 <a name="30-days-of-code-challenges"></a>
 ## Data Structures
