@@ -57,3 +57,4 @@ This is hosted in the [data structure section](https://www.hackerrank.com/domain
 + [x] Balanced Brackets  
 + [x] Equal Stacks  
 + [ ] Game of Two Stacks  
++ [x] Simple Text Editor  
