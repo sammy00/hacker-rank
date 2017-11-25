@@ -32,7 +32,15 @@ This is hosted in the [tutorial section](https://www.hackerrank.com/domains/tuto
 <a name="data-structures"></a>
 ## Data Structures
 This is hosted in the [data structure section](https://www.hackerrank.com/domains/data-structures/arrays)  
-### Arrays ![progress badge](https://img.shields.io/badge/progress-100%25-brightgreen.svg)    
+### Progress Overview  
+
+track | progress
+------|---------
+Arrays  | ![progress badge](https://img.shields.io/badge/progress-100%25-brightgreen.svg) 
+Linked List | |
+Stack |  |
+
+### Arrays   
 + [x] Arrays - DS   
 + [x] 2D Array - DS: care the initial minimum of sentinel `sum_max`  
 + [x] Dynamic Array  
