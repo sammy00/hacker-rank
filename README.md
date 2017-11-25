@@ -5,6 +5,7 @@ This project serves as the repository hosting solutions for problems in [HankerR
 
 ## Contents  
 + [30 Days of Code Challenges](30-days-of-code-challenges)   
++ [Data Structures](data-structures)  
 
 <a name="30-days-of-code-challenges"></a>
 ## 30 Days of Code Challenges   
@@ -28,15 +29,15 @@ This is hosted in the [tutorial section](https://www.hackerrank.com/domains/tuto
 + [x] Day 16: Exceptions - String to Integer  
 + [x] Day 18: Queues and Stacks  
 
-<a name="30-days-of-code-challenges"></a>
+<a name="data-structures"></a>
 ## Data Structures
 This is hosted in the [data structure section](https://www.hackerrank.com/domains/data-structures/arrays)  
-### Arrays  
+### Arrays ![progress badge](https://img.shields.io/badge/progress-100%25-brightgreen.svg)    
 + [x] Arrays - DS   
 + [x] 2D Array - DS: care the initial minimum of sentinel `sum_max`  
 + [x] Dynamic Array  
 + [x] Sparse Arrays  
-+ [ ] Array Manipulation  
++ [x] Array Manipulation  
 ### Linked Lists  
 + [x] Print the Elements of a Linked List  
 + [x] Insert a Node at the Tail of a Linked List   
@@ -59,3 +60,4 @@ This is hosted in the [data structure section](https://www.hackerrank.com/domain
 + [x] Equal Stacks  
 + [ ] Game of Two Stacks  
 + [x] Simple Text Editor  
++ [ ] Poisonous Plants  
