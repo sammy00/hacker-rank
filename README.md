@@ -28,6 +28,7 @@ This is hosted in the [tutorial section](https://www.hackerrank.com/domains/tuto
 + [x] Day 15: Linked List  
 + [x] Day 16: Exceptions - String to Integer  
 + [x] Day 18: Queues and Stacks  
++ [x] Day 19: Interfaces  
 
 <a name="data-structures"></a>
 ## Data Structures
