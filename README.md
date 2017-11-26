@@ -4,9 +4,9 @@
 This project serves as the repository hosting solutions for problems in [HankerRank](https://www.hackerrank.com/dashboard)   
 
 ## Contents  
-+ [Progress](progress)  
-+ [30 Days of Code Challenges](30-days-of-code-challenges)   
-+ [Data Structures](data-structures)  
++ [Progress](#progress)  
++ [30 Days of Code Challenges](#30-days-of-code-challenges)   
++ [Data Structures](#data-structures)  
 
 <a name="progress"></a>
 ## Progress  
