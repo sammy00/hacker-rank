@@ -4,8 +4,19 @@
 This project serves as the repository hosting solutions for problems in [HankerRank](https://www.hackerrank.com/dashboard)   
 
 ## Contents  
++ [Progress](progress)  
 + [30 Days of Code Challenges](30-days-of-code-challenges)   
 + [Data Structures](data-structures)  
+
+<a name="progress"></a>
+## Progress  
+
+track   | status
+--------|---------
+30 Days of Code Challenges  | ![progress badge for 30-days-of-code-challenges](https://img.shields.io/badge/percent-19%2F30-orange.svg)
+Arrays  | ![progress badge for arrays](https://img.shields.io/badge/percent-6%2F6-brightgreen.svg)
+Linked List | ![progress badge for linked list](https://img.shields.io/badge/percent-15%2F15-brightgreen.svg)
+Stack   | ![progress badge for stack](https://img.shields.io/badge/percent-5%2F9-orange.svg)   
 
 <a name="30-days-of-code-challenges"></a>
 ## 30 Days of Code Challenges   
@@ -33,14 +44,6 @@ This is hosted in the [tutorial section](https://www.hackerrank.com/domains/tuto
 <a name="data-structures"></a>
 ## Data Structures
 This is hosted in the [data structure section](https://www.hackerrank.com/domains/data-structures/arrays)  
-### Progress Overview  
-
-track | progress
-------|---------
-Arrays  | ![progress badge for arrays](https://img.shields.io/badge/percent-6%2F6-brightgreen.svg)
-Linked List | ![progress badge for linked list](https://img.shields.io/badge/percent-15%2F15-brightgreen.svg)
-Stack | ![progress badge for stack](https://img.shields.io/badge/percent-4%2F9-brightgreen.svg) |
-
 ### Arrays   
 + [x] Arrays - DS   
 + [x] 2D Array - DS: care the initial minimum of sentinel `sum_max`  
@@ -70,3 +73,4 @@ Stack | ![progress badge for stack](https://img.shields.io/badge/percent-4%2F9-b
 + [ ] Game of Two Stacks  
 + [x] Simple Text Editor  
 + [ ] Poisonous Plants  
++ [x] Waiter  
