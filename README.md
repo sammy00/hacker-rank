@@ -37,9 +37,9 @@ This is hosted in the [data structure section](https://www.hackerrank.com/domain
 
 track | progress
 ------|---------
-Arrays  | ![progress badge](https://img.shields.io/badge/progress-100%25-brightgreen.svg) 
-Linked List | |
-Stack |  |
+Arrays  | ![progress badge for arrays](https://img.shields.io/badge/percent-6%2F6-brightgreen.svg)
+Linked List | ![progress badge for linked list](https://img.shields.io/badge/percent-15%2F15-brightgreen.svg)
+Stack | ![progress badge for stack](https://img.shields.io/badge/percent-4%2F9-brightgreen.svg) |
 
 ### Arrays   
 + [x] Arrays - DS   
