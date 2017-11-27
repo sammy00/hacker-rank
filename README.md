@@ -16,7 +16,8 @@ track   | status
 30 Days of Code Challenges  | ![progress badge for 30-days-of-code-challenges](https://img.shields.io/badge/percent-20%2F30-orange.svg)
 Arrays  | ![progress badge for arrays](https://img.shields.io/badge/percent-6%2F6-brightgreen.svg)
 Linked List | ![progress badge for linked list](https://img.shields.io/badge/percent-15%2F15-brightgreen.svg)
-Stack   | ![progress badge for stack](https://img.shields.io/badge/percent-5%2F9-orange.svg)   
+Stacks   | ![progress badge for stacks](https://img.shields.io/badge/percent-5%2F9-orange.svg)   
+Queues   | ![progress badge for queues](https://img.shields.io/badge/percent-1%2F1-orange.svg)   
 
 <a name="30-days-of-code-challenges"></a>
 ## 30 Days of Code Challenges   
@@ -76,3 +77,5 @@ This is hosted in the [data structure section](https://www.hackerrank.com/domain
 + [x] Simple Text Editor  
 + [ ] Poisonous Plants  
 + [x] Waiter  
+### Queues  
++ [x] Queue using Two Stacks  
