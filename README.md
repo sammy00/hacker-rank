@@ -4,7 +4,19 @@
 This project serves as the repository hosting solutions for problems in [HankerRank](https://www.hackerrank.com/dashboard)   
 
 ## Contents  
-+ [30 Days of Code Challenges](30-days-of-code-challenges)   
++ [Progress](#progress)  
++ [30 Days of Code Challenges](#30-days-of-code-challenges)   
++ [Data Structures](#data-structures)  
+
+<a name="progress"></a>
+## Progress  
+
+track   | status
+--------|---------
+30 Days of Code Challenges  | ![progress badge for 30-days-of-code-challenges](https://img.shields.io/badge/percent-19%2F30-orange.svg)
+Arrays  | ![progress badge for arrays](https://img.shields.io/badge/percent-6%2F6-brightgreen.svg)
+Linked List | ![progress badge for linked list](https://img.shields.io/badge/percent-15%2F15-brightgreen.svg)
+Stack   | ![progress badge for stack](https://img.shields.io/badge/percent-5%2F9-orange.svg)   
 
 <a name="30-days-of-code-challenges"></a>
 ## 30 Days of Code Challenges   
@@ -27,16 +39,18 @@ This is hosted in the [tutorial section](https://www.hackerrank.com/domains/tuto
 + [x] Day 15: Linked List  
 + [x] Day 16: Exceptions - String to Integer  
 + [x] Day 17: More Exceptions  
++ [x] Day 18: Queues and Stacks  
++ [x] Day 19: Interfaces  
 
-<a name="30-days-of-code-challenges"></a>
+<a name="data-structures"></a>
 ## Data Structures
 This is hosted in the [data structure section](https://www.hackerrank.com/domains/data-structures/arrays)  
-### Arrays  
+### Arrays   
 + [x] Arrays - DS   
 + [x] 2D Array - DS: care the initial minimum of sentinel `sum_max`  
 + [x] Dynamic Array  
 + [x] Sparse Arrays  
-+ [ ] Array Manipulation  
++ [x] Array Manipulation  
 ### Linked Lists  
 + [x] Print the Elements of a Linked List  
 + [x] Insert a Node at the Tail of a Linked List   
@@ -58,3 +72,6 @@ This is hosted in the [data structure section](https://www.hackerrank.com/domain
 + [x] Balanced Brackets  
 + [x] Equal Stacks  
 + [ ] Game of Two Stacks  
++ [x] Simple Text Editor  
++ [ ] Poisonous Plants  
++ [x] Waiter  

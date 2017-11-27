@@ -1,4 +1,3 @@
-#include <algorithm>
 #include <iostream>
 #include <vector>
 
@@ -8,17 +7,22 @@ int main() {
     int n, m;
     cin >> n >> m;
 
-    vector<long> arr(1 + n, 0);
+    vector<long> arr(2 + n, 0);
     int a, b, k;
 
     while (--m >= 0) {
         cin >> a >> b >> k;
-        for (int i = a; i <= b; ++i) {
-            arr[i] += k;
-        }
+        arr[a] += k;
+        arr[b + 1] -= k;
     }
 
-    cout << *(std::max_element(std::begin(arr), std::end(arr))) << endl;
+    long val{}, max{};
+    for (const auto &x : arr) {
+        val += x;
+        max = (max >= val ? max : val);
+    }
+
+    cout << max << endl;
 
     return 0;
 }
