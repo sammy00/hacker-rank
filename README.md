@@ -13,7 +13,7 @@ This project serves as the repository hosting solutions for problems in [HankerR
 
 track   | status
 --------|---------
-30 Days of Code Challenges  | ![progress badge for 30-days-of-code-challenges](https://img.shields.io/badge/percent-29%2F30-orange.svg)
+30 Days of Code Challenges  | ![progress badge for 30-days-of-code-challenges](https://img.shields.io/badge/percent-30%2F30-green.svg)
 Arrays  | ![progress badge for arrays](https://img.shields.io/badge/percent-6%2F6-brightgreen.svg)
 Linked List | ![progress badge for linked list](https://img.shields.io/badge/percent-15%2F15-brightgreen.svg)
 Stacks   | ![progress badge for stacks](https://img.shields.io/badge/percent-5%2F9-orange.svg)   
@@ -51,6 +51,7 @@ This is hosted in the [tutorial section](https://www.hackerrank.com/domains/tuto
 + [x] Day 26: Nested Logic  
 + [x] Day 27: Testing  
 + [x] Day 28: RegEx, Patterns, and Intro to Databases  
++ [x] Day 29: Bitwise AND  
 
 <a name="data-structures"></a>
 ## Data Structures
