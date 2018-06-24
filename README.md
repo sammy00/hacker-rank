@@ -17,6 +17,7 @@ track   | status
 Arrays  | ![progress badge for arrays](https://img.shields.io/badge/percent-6%2F6-brightgreen.svg)
 Linked List | ![progress badge for linked list](https://img.shields.io/badge/percent-15%2F15-brightgreen.svg)
 Stack   | ![progress badge for stack](https://img.shields.io/badge/percent-5%2F9-orange.svg)   
+Trees   | 3/17
 
 <a name="30-days-of-code-challenges"></a>
 ## 30 Days of Code Challenges   
@@ -74,3 +75,7 @@ This is hosted in the [data structure section](https://www.hackerrank.com/domain
 + [x] Simple Text Editor  
 + [ ] Poisonous Plants  
 + [x] Waiter  
+### Trees  
++ [x] Inorder Traversal  
++ [x] Postorder Traversal  
++ [x] Preorder Traversal  
