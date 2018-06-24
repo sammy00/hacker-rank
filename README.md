@@ -13,9 +13,10 @@ This project serves as the repository hosting solutions for problems in [HankerR
 
 track   | status
 --------|---------
-30 Days of Code Challenges  | ![progress badge for 30-days-of-code-challenges](https://img.shields.io/badge/percent-19%2F30-orange.svg)
+30 Days of Code Challenges  | ![progress badge for 30-days-of-code-challenges](https://img.shields.io/badge/percent-30%2F30-green.svg)
 Arrays  | ![progress badge for arrays](https://img.shields.io/badge/percent-6%2F6-brightgreen.svg)
 Linked List | ![progress badge for linked list](https://img.shields.io/badge/percent-15%2F15-brightgreen.svg)
+Queues  | ![progress badge for queues](https://img.shields.io/badge/percent-1%2F1-orange.svg)   
 Stack   | ![progress badge for stack](https://img.shields.io/badge/percent-5%2F9-orange.svg)   
 Trees   | 3/17
 
@@ -39,8 +40,19 @@ This is hosted in the [tutorial section](https://www.hackerrank.com/domains/tuto
 + [x] Day 14: Scope  
 + [x] Day 15: Linked List  
 + [x] Day 16: Exceptions - String to Integer  
++ [x] Day 17: More Exceptions  
 + [x] Day 18: Queues and Stacks  
 + [x] Day 19: Interfaces  
++ [x] Day 20: Sorting  
++ [x] Day 21: Generics  
++ [x] Day 22: Binary Search Trees  
++ [x] Day 23: BST Level-Order Traversal  
++ [x] Day 24: More Linked Lists  
++ [x] Day 25: Running Time and Complexity  
++ [x] Day 26: Nested Logic  
++ [x] Day 27: Testing  
++ [x] Day 28: RegEx, Patterns, and Intro to Databases  
++ [x] Day 29: Bitwise AND  
 
 <a name="data-structures"></a>
 ## Data Structures
@@ -67,6 +79,8 @@ This is hosted in the [data structure section](https://www.hackerrank.com/domain
 + [x] Find Merge Point of Two Lists  
 + [x] Inserting a Node Into a Sorted Doubly Linked List  
 + [x] Reverse a doubly linked list  
+### Queues  
++ [x] Queue using Two Stacks  
 ### Stacks  
 + [x] Maximum Element  
 + [x] Balanced Brackets  
